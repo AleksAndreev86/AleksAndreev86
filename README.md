@@ -5,8 +5,8 @@
 Продолжаю учиться на бесплатных курсах и одновременно ищу работу по-данному профилю.
 
 **Ссылки:**
-* ![Диплом о профессиональной переподготовке](https://lh3.google.com/u/0/d/1-6UX5Fy6IPMxMb3LgN2IgTD1XAHdimAP=w1366-h628-iv3)
-* ![Приложение к диплому о профессиональной переподготовке](https://lh3.google.com/u/0/d/1-BrkMLKmLP2dOga-e2nWK3ma20hz4IgR=w1366-h628-iv3)
+* ![Диплом о профессиональной переподготовке](https://drive.google.com/file/d/1-6UX5Fy6IPMxMb3LgN2IgTD1XAHdimAP/view?usp=sharing)
+* ![Приложение к диплому о профессиональной переподготовке](https://drive.google.com/file/d/1-BrkMLKmLP2dOga-e2nWK3ma20hz4IgR/view?usp=sharing)
 
 **Мои контактные данные:**
 * электронная почта: aleksandr.andreev.1986@yandex.ru
