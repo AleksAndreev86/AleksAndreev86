@@ -9,6 +9,6 @@
 * ![Приложение к диплому о профессиональной переподготовке](https://disk.yandex.ru/i/WqxZgZfXaicFPQ)
 
 **Мои контактные данные:**
-* Telegram: @al_andreev86
+* Telegram: @al_andreev86 (предпочтительный способ связи)
 * электронная почта: aleksandr.andreev.1986@yandex.ru
 * мобильный телефон: +7 951 956-8170
