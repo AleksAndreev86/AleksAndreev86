@@ -6,7 +6,7 @@
 
 **Ссылки:**
 * ![Диплом о профессиональной переподготовке](https://github.com/AleksAndreev86/AleksAndreev86/blob/main/IMG_20230204_133635.jpg)
-* ![Приложение к диплому о профессиональной переподготовке](https://disk.yandex.ru/i/kRJXA5h5ERTGbQ)
+* ![Приложение к диплому о профессиональной переподготовке](https://github.com/AleksAndreev86/AleksAndreev86/blob/main/IMG_20230204_133758.jpg)
 
 **Мои контактные данные:**
 * Telegram: @al_andreev86 (предпочтительный способ связи)
