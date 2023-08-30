@@ -5,7 +5,7 @@
 Продолжаю учиться на бесплатных курсах и одновременно ищу работу по-данному профилю.
 
 **Ссылки:**
-* ![Сертификат об окончании курса Алекса Смита "Тестирование с нуля до специалиста"](https://github.com/AleksAndreev86/AleksAndreev86/blob/main/testing.pdf)
+* ![Сертификат об окончании курса Алекса Смита "Тестирование с нуля до специалиста"](https://github.com/AleksAndreev86/AleksAndreev86/blob/main/testing_page-0001.jpg)
 * ![Диплом о профессиональной переподготовке](https://github.com/AleksAndreev86/AleksAndreev86/blob/main/IMG_20230204_133635.jpg)
 * ![Приложение к диплому о профессиональной переподготовке](https://github.com/AleksAndreev86/AleksAndreev86/blob/main/IMG_20230204_133758.jpg)
 
