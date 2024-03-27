@@ -6,6 +6,7 @@
 
 **Ссылки:**
 * ![Сертификат об окончании курса Алекса Смита "Тестирование с нуля до специалиста"](https://github.com/AleksAndreev86/AleksAndreev86/blob/main/testing_page-0001.jpg)
+* ![Автоматизация тестирования консольных приложений Linux на Python](https://github.com/AleksAndreev86/AleksAndreev86/blob/main/Автоматизация%20тестирования%20консольных%20приложений%20Linux%20на%20Пайтон%20лекции.pdf)
 * ![Диплом о профессиональной переподготовке](https://github.com/AleksAndreev86/AleksAndreev86/blob/main/IMG_20230204_133635.jpg)
 * ![Приложение к диплому о профессиональной переподготовке](https://github.com/AleksAndreev86/AleksAndreev86/blob/main/IMG_20230204_133758.jpg)
 
