@@ -6,7 +6,7 @@
 
 **Ссылки:**
 * ![Сертификат об окончании курса Алекса Смита "Тестирование с нуля до специалиста"](https://github.com/AleksAndreev86/AleksAndreev86/blob/main/testing_page-0001.jpg)
-* ![Автоматизация тестирования консольных приложений Linux на Python](https://github.com/AleksAndreev86/AleksAndreev86/blob/main/Автоматизация%20тестирования%20консольных%20приложений%20Linux%20на%20Пайтон%20лекции.pdf)
+* ![Автоматизация тестирования консольных приложений Linux на Python](https://github.com/AleksAndreev86/AleksAndreev86/blob/1aa257626562a51c5c0ac6acbbb8e7ace0ef3472/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BA%D0%BE%D0%BD%D1%81%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9%20Linux%20%D0%BD%D0%B0%20%D0%9F%D0%B0%D0%B9%D1%82%D0%BE%D0%BD%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8.jpg)
 * ![Диплом о профессиональной переподготовке](https://github.com/AleksAndreev86/AleksAndreev86/blob/main/IMG_20230204_133635.jpg)
 * ![Приложение к диплому о профессиональной переподготовке](https://github.com/AleksAndreev86/AleksAndreev86/blob/main/IMG_20230204_133758.jpg)
 
